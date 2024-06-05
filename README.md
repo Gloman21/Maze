@@ -5,7 +5,8 @@ Welcome to "The Maze" Game!
 
 "The Maze" is an exciting 3D maze game that utilizes raycasting to render a 2D map into a navigable 3D world. Developed using C and SDL2 library, it offers an immersive gaming experience on Linux/Ubuntu and macOS platforms.
 
-Features:
+<h3>Features:</h3>
+
 <img width="800" alt="7e897a79ffe0d990856e021f4e1e6cdbb0ff5395" src="https://github.com/Gloman21/Maze/assets/140081862/f3511c39-4f0e-4d24-9263-de71fe1b9fe5">
 
 <img width="800" alt="bc20224777aa01d6b9b6f6944421beb1850fecb6" src="https://github.com/Gloman21/Maze/assets/140081862/86e29543-79ab-4dde-8f12-f1162488dc9a">
