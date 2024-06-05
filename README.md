@@ -46,3 +46,8 @@ Used by top-tier gaming titles and software applications
 Installation Instructions:
 Follow the steps below to install SDL2 library and its dependencies on your system:
 https://www.libsdl.org/
+
+<h3>AUTHORS</h3>
+
+IRANKUNDA Bertin (https://github.com/Gloman21)
+RUDASESWA Scott Mc Davis(https://github.com/ScottShadow)
